@@ -1,0 +1,23 @@
+{
+  "name": "chat-application",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mongoose": "^5.4.6",
+    "nodemon": "^1.18.9",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
