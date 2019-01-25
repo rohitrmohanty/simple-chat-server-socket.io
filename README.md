@@ -1,6 +1,6 @@
 # Simple Chat Server using WebSockets (Socket.io)
 
-This is an implementation of a simple chat server using web_sockets. Made with the help of [Leon Watson's Tutorial](https://www.youtube.com/watch?v=84GXJANOYFw) for the initial login.
+This is an implementation of a simple chat server using web_sockets. Made with the help of [Leon Watson's Tutorial](https://www.youtube.com/watch?v=84GXJANOYFw) for the initial login. I've added the use of a DB for archiving Messages with Private Messaging as the default. Group Message functionality is not yet implemented.
 
 ## Getting Started
 
